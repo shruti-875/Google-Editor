@@ -1,7 +1,7 @@
 Google Editor 
 
 
-The project aims to create a web-based document editing application similar to Google Docs, utilizing the .NET framework. This clone will allow users to create, edit, and share documents online, with real-time collaboration capabilities using tiny.
+The project aims to create a web-based document editing application similar to Google Docs, utilizing the MVC Architecture in .NET framework. This clone will allow users to create, edit, and share documents online, with real-time collaboration capabilities using tiny.
 
 Key Features
 
